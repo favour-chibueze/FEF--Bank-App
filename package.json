@@ -1,0 +1,19 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "A Bank App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/favour-chibueze/FEF--Bank-App.git"
+  },
+  "author": "Favour Chibueze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/favour-chibueze/FEF--Bank-App/issues"
+  },
+  "homepage": "https://github.com/favour-chibueze/FEF--Bank-App#readme"
+}
