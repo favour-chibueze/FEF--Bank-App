@@ -194,7 +194,6 @@ app.use(apiPrefix, router);
 
 // Start the server
 app.listen(port, () => {
-   http://localhost:3000
-   
+ 
     console.log(`Example app listening at http://localhost:${port}`)
 });
